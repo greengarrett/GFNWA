@@ -29,6 +29,7 @@ module.exports = {
           messagingSenderId: "<YOUR_FIREBASE_MESSAGING_SENDER_ID>",
           appId: "<YOUR_FIREBASE_APP_ID>"
         }
+      }
     }
   ],
 };

@@ -19,7 +19,6 @@ import {
     Row,
     UncontrolledTooltip,
   } from "reactstrap";
-import Image from 'react-bootstrap/Image';
 
 
 

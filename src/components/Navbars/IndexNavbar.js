@@ -139,7 +139,7 @@ function IndexNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://twitter.com/CreativeTim?ref=creativetim"
+                  href="https://twitter.com/glutenfreenwa"
                   target="_blank"
                   id="twitter-tooltip"
                 >
@@ -150,7 +150,7 @@ function IndexNavbar() {
                   Follow us on Twitter
                 </UncontrolledTooltip>
               </NavItem>
-              <NavItem>
+              {/* <NavItem>
                 <NavLink
                   href="https://www.facebook.com/CreativeTim?ref=creativetim"
                   target="_blank"
@@ -162,7 +162,7 @@ function IndexNavbar() {
                 <UncontrolledTooltip target="#facebook-tooltip">
                   Like us on Facebook
                 </UncontrolledTooltip>
-              </NavItem>
+              </NavItem> */}
               <NavItem>
                 <NavLink
                   href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"

@@ -28,7 +28,6 @@ function Construction() {
   return (
     <>
       <div
-        className="section section-download"
         id="construction"
       >
         <Container className="d-flex justify-content-center">

@@ -17,6 +17,7 @@ function DefaultFooter() {
                 <a
                   href="https://www.creative-tim.com?ref=nukr-default-footer"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Creative Tim
                 </a>
@@ -25,6 +26,7 @@ function DefaultFooter() {
                 <a
                   href="http://presentation.creative-tim.com?ref=nukr-default-footer"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   About Us
                 </a>
@@ -33,6 +35,7 @@ function DefaultFooter() {
                 <a
                   href="http://blog.creative-tim.com?ref=nukr-default-footer"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Blog
                 </a>
@@ -44,6 +47,7 @@ function DefaultFooter() {
             <a
               href="https://www.invisionapp.com?ref=nukr-default-footer"
               target="_blank"
+              rel="noreferrer"
             >
               Invision
             </a>
@@ -51,6 +55,7 @@ function DefaultFooter() {
             <a
               href="https://www.creative-tim.com?ref=nukr-default-footer"
               target="_blank"
+              rel="noreferrer"
             >
               Creative Tim
             </a>

@@ -91,6 +91,7 @@ function ExamplesNavbar() {
             <NavbarBrand
               href="https://demos.creative-tim.com/now-ui-kit-react/index?ref=nukr-examples-navbar"
               target="_blank"
+              rel="noreferrer"
               id="navbar-brand"
             >
               Now Ui Kit
@@ -132,6 +133,7 @@ function ExamplesNavbar() {
                 <NavLink
                   href="https://twitter.com/CreativeTim?ref=creativetim"
                   target="_blank"
+                  rel="noreferrer"
                   id="twitter-tooltip"
                 >
                   <i className="fab fa-twitter"></i>
@@ -145,6 +147,7 @@ function ExamplesNavbar() {
                 <NavLink
                   href="https://www.facebook.com/CreativeTim?ref=creativetim"
                   target="_blank"
+                  rel="noreferrer"
                   id="facebook-tooltip"
                 >
                   <i className="fab fa-facebook-square"></i>
@@ -158,6 +161,7 @@ function ExamplesNavbar() {
                 <NavLink
                   href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
                   target="_blank"
+                  rel="noreferrer"
                   id="instagram-tooltip"
                 >
                   <i className="fab fa-instagram"></i>

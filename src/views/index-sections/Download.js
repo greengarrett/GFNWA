@@ -42,6 +42,7 @@ function Download() {
                 role="button"
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 Download PSD/Sketch
               </Button>
@@ -93,6 +94,7 @@ function Download() {
                 id="tooltip86114138"
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i className="fab fa-twitter"></i>
               </Button>
@@ -106,6 +108,7 @@ function Download() {
                 id="tooltip735272548"
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i className="fab fa-facebook-square"></i>
               </Button>
@@ -119,6 +122,7 @@ function Download() {
                 id="tooltip647117716"
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i className="fab fa-linkedin"></i>
               </Button>
@@ -132,6 +136,7 @@ function Download() {
                 id="tooltip331904895"
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i className="fab fa-github"></i>
               </Button>

@@ -44,6 +44,7 @@ function Construction() {
                     <a
                         href="https://twitter.com/glutenfreenwa"
                         target="_blank"
+                        rel="noreferrer"
                         id="twitter-tooltip"
                         >
                         <i className="fab fa-twitter fa-4x"></i>
@@ -54,6 +55,7 @@ function Construction() {
                     <NavLink
                         href="https://www.instagram.com/glutenfreenwa"
                         target="_blank"
+                        rel="noreferrer"
                         id="instagram-tooltip"
                         >
                         <i className="fab fa-instagram fa-4x"></i>

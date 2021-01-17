@@ -4,19 +4,8 @@ import React from "react";
 // reactstrap components
 // import { Container, Row, Col } from "reactstrap";
 import {
-    Button,
-    Col,
     Container,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem,
-    UncontrolledDropdown,
-    NavbarBrand,
-    Navbar,
-    NavItem,
     NavLink,
-    Nav,
-    Row,
     UncontrolledTooltip,
   } from "reactstrap";
 
@@ -28,7 +17,6 @@ function Construction() {
   return (
     <>
       <div
-        className="section section-download"
         id="construction"
       >
         <Container className="d-flex justify-content-center">
@@ -40,10 +28,11 @@ function Construction() {
                 ></img>
                 <h1>Give me a minute! I'm building it!</h1>
                 <h3>Go check out the socials though...</h3>
-                <div class="d-flex flex-row w-100 align-items-center justify-content-around">
+                <div className="d-flex flex-row w-100 align-items-center justify-content-around">
                     <a
                         href="https://twitter.com/glutenfreenwa"
                         target="_blank"
+                        rel="noreferrer"
                         id="twitter-tooltip"
                         >
                         <i className="fab fa-twitter fa-4x"></i>
@@ -54,6 +43,7 @@ function Construction() {
                     <NavLink
                         href="https://www.instagram.com/glutenfreenwa"
                         target="_blank"
+                        rel="noreferrer"
                         id="instagram-tooltip"
                         >
                         <i className="fab fa-instagram fa-4x"></i>

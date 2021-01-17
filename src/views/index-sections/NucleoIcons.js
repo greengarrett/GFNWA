@@ -24,6 +24,7 @@ function NucleoIcons() {
                 href="/nucleo-icons"
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 View Demo Icons
               </Button>
@@ -34,6 +35,7 @@ function NucleoIcons() {
                 outline
                 size="lg"
                 target="_blank"
+                rel="noreferrer"
               >
                 View All Icons
               </Button>

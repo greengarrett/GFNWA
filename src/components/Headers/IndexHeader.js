@@ -44,7 +44,7 @@ function IndexHeader() {
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
-            <a href="http://invisionapp.com/?ref=creativetim" target="_blank">
+            <a href="http://invisionapp.com/?ref=creativetim" target="_blank" rel="noreferrer">
               <img
                 alt="..."
                 className="invision-logo"
@@ -55,6 +55,7 @@ function IndexHeader() {
             <a
               href="https://www.creative-tim.com?ref=nukr-index-header"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 alt="..."

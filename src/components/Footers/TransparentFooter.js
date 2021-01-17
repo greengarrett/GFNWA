@@ -14,6 +14,7 @@ function TransparentFooter() {
               <a
                 href="https://www.creative-tim.com?ref=nukr-transparent-footer"
                 target="_blank"
+                rel="noreferrer"
               >
                 Creative Tim
               </a>
@@ -22,6 +23,7 @@ function TransparentFooter() {
               <a
                 href="http://presentation.creative-tim.com?ref=nukr-transparent-footer"
                 target="_blank"
+                rel="noreferrer"
               >
                 About Us
               </a>
@@ -30,6 +32,7 @@ function TransparentFooter() {
               <a
                 href="http://blog.creative-tim.com?ref=nukr-transparent-footer"
                 target="_blank"
+                rel="noreferrer"
               >
                 Blog
               </a>
@@ -41,6 +44,7 @@ function TransparentFooter() {
           <a
             href="https://www.invisionapp.com?ref=nukr-transparent-footer"
             target="_blank"
+            rel="noreferrer"
           >
             Invision
           </a>
@@ -48,6 +52,7 @@ function TransparentFooter() {
           <a
             href="https://www.creative-tim.com?ref=nukr-transparent-footer"
             target="_blank"
+            rel="noreferrer"
           >
             Creative Tim
           </a>

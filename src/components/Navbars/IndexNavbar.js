@@ -56,6 +56,7 @@ function IndexNavbar() {
             <NavbarBrand
               href="https://demos.creative-tim.com/now-ui-kit-react/#/index?ref=nukr-index-navbar"
               target="_blank"
+              rel="noreferrer"
               id="navbar-brand"
             >
               Now UI Kit React
@@ -116,6 +117,7 @@ function IndexNavbar() {
                   <DropdownItem
                     href="https://demos.creative-tim.com/now-ui-kit-react/#/documentation/introduction?ref=nukr-index-navbar"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <i className="now-ui-icons design_bullet-list-67 mr-1"></i>
                     Documentation
@@ -141,6 +143,7 @@ function IndexNavbar() {
                 <NavLink
                   href="https://twitter.com/glutenfreenwa"
                   target="_blank"
+                  rel="noreferrer"
                   id="twitter-tooltip"
                 >
                   <i className="fab fa-twitter"></i>
@@ -154,6 +157,7 @@ function IndexNavbar() {
                 <NavLink
                   href="https://www.facebook.com/CreativeTim?ref=creativetim"
                   target="_blank"
+                  rel="noreferrer"
                   id="facebook-tooltip"
                 >
                   <i className="fab fa-facebook-square"></i>
@@ -167,6 +171,7 @@ function IndexNavbar() {
                 <NavLink
                   href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
                   target="_blank"
+                  rel="noreferrer"
                   id="instagram-tooltip"
                 >
                   <i className="fab fa-instagram"></i>
